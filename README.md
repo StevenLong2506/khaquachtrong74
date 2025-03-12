@@ -1,4 +1,5 @@
-\textcolor{cyan}{\textbf{\fontsize{22pt}{24pt}\selectfont Hi there 👋, lost soul of the forgotten realms, may the unseen runes weave your fate!}}
+## Hi there 👋, lost soul of the forgotten realms, may the unseen runes weave your fate!
+
 
 ---
 <div align="center">
