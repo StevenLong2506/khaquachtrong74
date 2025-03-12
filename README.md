@@ -3,9 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Open+University+of+Ho+Chi+Minh+city;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Open+University+of+Ho+Chi+Minh+city;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..&hearts"></a>
 </p>
+
 ---
+
 <div align="center">
   <img src="https://github.com/khaquachtrong74/khaquachtrong74/blob/main/Profile/hazz.png" style="border-radius:25px" width="400" height="300"/>
 </div>
