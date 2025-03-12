@@ -1,4 +1,4 @@
-$$\textcolor{cyan}{\text{Hi there 👋, welcome to my lazy!}}$$
+\textcolor{cyan}{\textbf{\fontsize{22pt}{24pt}\selectfont Hi there 👋, lost soul of the forgotten realms, may the unseen runes weave your fate!}}
 
 ---
 <div align="center">
