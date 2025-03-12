@@ -2,7 +2,7 @@ $$\textcolor{cyan}{\text{Hi there 👋, welcome to my lazy!}}$$
 
 ---
 <div align="center">
-  <img src="https://github.com/khaquachtrong74/khaquachtrong74/blob/main/Profile/hazz.png" width="400" height="300"/>
+  <img src="https://github.com/khaquachtrong74/khaquachtrong74/blob/main/Profile/hazz.png" style="border-radius:25px" width="400" height="300"/>
 </div>
 <h1>
   🔭 I’m currently working, 💬 Ask me about Nothing!
@@ -17,20 +17,17 @@ $$\textcolor{cyan}{\text{Hi there 👋, welcome to my lazy!}}$$
 
 ---
 
+<br>
+
+<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/Jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="100%">
 
 <br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=4&layout=compact&theme=tokyonight" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=tokyonight" alt="GitHub Stats" height="150">
+</p>
 
-<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/Jake.gif" alt="What the dog doing XD" width="500">
-
-
-<br>
-
-<div align="right">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaquachtrong74)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 <!--
 **khaquachtrong74/khaquachtrong74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
