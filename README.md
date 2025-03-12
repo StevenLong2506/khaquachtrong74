@@ -15,7 +15,8 @@ $$\textcolor{cyan}{\text{Hi there 👋, welcome to my lazy!}}$$
 
 </div>
 ---
-![What the dog doing XD](https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif)
+<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/Jake.gif" alt="What the dog doing XD" width="500">
+
 
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaquachtrong74)](https://github.com/anuraghazra/github-readme-stats)
