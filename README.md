@@ -1,4 +1,4 @@
-<h1 align='center' color='cyan' > Hi there 👋, welcome to my lazy! </h1>
+<h1 align='center' style='color: cyan' > Hi there 👋, welcome to my lazy! </h1>
 ---
 <div align="center">
   <img src="https://github.com/khaquachtrong74/khaquachtrong74/Profile/hand-drawn-sad-stick-figure-sitting-in-chair-vector-28334155.jpg" width="600" height="240"/>
