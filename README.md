@@ -15,6 +15,7 @@ $$\textcolor{cyan}{\text{Hi there 👋, welcome to my lazy!}}$$
 
 </div>
 ---
+
 <img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/Jake.gif" alt="What the dog doing XD" width="500">
 
 
