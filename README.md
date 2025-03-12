@@ -2,7 +2,7 @@ $$\textcolor{cyan}{\text{Hi there 👋, welcome to my lazy!}}$$
 
 ---
 <div align="center">
-  <img src="https://github.com/khaquachtrong74/khaquachtrong74/blob/main/Profile/hand-drawn-sad-stick-figure-sitting-in-chair-vector-28334155.jpg" width="600" height="300"/>
+  <img src="https://github.com/khaquachtrong74/khaquachtrong74/blob/main/Profile/hazz.png" width="600" height="300"/>
 </div>
 <h1>
   🔭 I’m currently working, 💬 Ask me about Nothing!
