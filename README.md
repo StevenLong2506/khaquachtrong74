@@ -19,7 +19,7 @@ $$\textcolor{cyan}{\text{Hi there 👋, welcome to my lazy!}}$$
 
 <br>
 
-<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/Jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="100%">
+<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="100%">
 
 <br>
 
