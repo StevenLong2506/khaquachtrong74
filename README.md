@@ -14,8 +14,13 @@ $$\textcolor{cyan}{\text{Hi there 👋, welcome to my lazy!}}$$
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Da-Kha-1)
 
 </div>
+
 ---
+
+
 <br>
+
+
 <img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/Jake.gif" alt="What the dog doing XD" width="500">
 
 
