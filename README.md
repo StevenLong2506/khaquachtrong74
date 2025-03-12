@@ -2,7 +2,7 @@ $$\textcolor{cyan}{\text{Hi there 👋, welcome to my lazy!}}$$
 
 ---
 <div align="center">
-  <img src="../Profile/hand-drawn-sad-stick-figure-sitting-in-chair-vector-28334155.jpg" width="600" height="240"/>
+  <img src="https://github.com/khaquachtrong74/khaquachtrong74/blob/main/Profile/hand-drawn-sad-stick-figure-sitting-in-chair-vector-28334155.jpg" width="600" height="240"/>
 </div>
 <h1>
   🔭 I’m currently working, 💬 Ask me about Nothing!
@@ -15,7 +15,7 @@ $$\textcolor{cyan}{\text{Hi there 👋, welcome to my lazy!}}$$
 
 </div>
 ---
-![What the dog doing XD](../Profile/Jake.gif)
+![What the dog doing XD](https://github.com/khaquachtrong74/khaquachtrong74/blob/main/Profile/Jake.gif)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaquachtrong74)](https://github.com/anuraghazra/github-readme-stats)
 
