@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋, welcome to my lazy!
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+# 🔭 I’m currently working, 💬 Ask me about Nothing!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+
+![Snake animation](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **khaquachtrong74/khaquachtrong74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
