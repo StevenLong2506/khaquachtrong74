@@ -1,12 +1,21 @@
-<h1 style="text-align:center" > Hi there 👋, welcome to my lazy! </h1>
+<h1 align='center' color='cyan' > Hi there 👋, welcome to my lazy! </h1>
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/khaquachtrong74/khaquachtrong74/Profile/hand-drawn-sad-stick-figure-sitting-in-chair-vector-28334155.jpg" width="600" height="240"/>
 </div>
 <h1>
   🔭 I’m currently working, 💬 Ask me about Nothing!
 </h1>
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaquachtrong74)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Da-Kha-1)
+
+</div>
+---
+
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaquachtrong74)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
