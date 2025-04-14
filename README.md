@@ -8,33 +8,36 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/khaquachtrong74/khaquachtrong74/blob/main/Profile/hazz.png" style="border-radius:25px" width="400" height="300"/>
-</div>
-<h1>
-  🔭 I’m currently working, 💬 Ask me about Nothing!
-</h1>
+<h2>
+  🔭 I'm currently working on 
+  <br>🛌 Ignore me! 
+</h2>
+  
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaquachtrong74)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Da-Kha-1)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaquachtrong74)
+  [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Da-Kha-1)
 
 </div>
 
 ---
 
 <br>
-
-<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="100%">
-
+<div style="display:flex">
+<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="60%">
+  <div style="width:20%"></div>
+  <div style="display:flex, flex-direction: reverse">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=5&layout=compact&theme=synthwave" alt="Top Languages" height="150" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=synthwave&show_icons=true" alt="GitHub Stats" height="150" width="400">
+  </div> 
+</div>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=4&layout=compact&theme=merko" alt="Top Languages" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=merko" alt="GitHub Stats" height="150">
-</p>
+---
 
+📫 How to reach me: <br>
+Email: khaquachtrong74@gmail.com
 <!--
 **khaquachtrong74/khaquachtrong74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
