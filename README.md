@@ -38,6 +38,8 @@
 
 📫 How to reach me: <br>
 Email: khaquachtrong74@gmail.com
+![Snake animation](https://raw.githubusercontent.com/khaquachtrong74/snk/output/github-contribution-grid-snake.svg)
+
 <!--
 **khaquachtrong74/khaquachtrong74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
