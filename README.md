@@ -25,7 +25,7 @@
 
 <br>
 <div style="display:flex">
-<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="60%">
+<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="40%">
   <div style="width:20%"></div>
   <div style="display:flex, flex-direction: reverse">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=5&layout=compact&theme=synthwave" alt="Top Languages" height="150" width="400">
