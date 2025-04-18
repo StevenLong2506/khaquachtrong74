@@ -27,11 +27,13 @@
 ---
 
 <br>
-
+<br>
 <picture>
-  <img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="40%" align="right">
+  <img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" alt="What the dog doing XD" width="35%" align="right">
 </picture>
 
+<br>
+<br>
 <div>
   <p>I am a low-level wizard 🧙 who codes best in the dark (though it may harm my eyes... eventually)</p>
   <p>I love fantasy worlds, ice-tea and creating things — useful or useless</p>
