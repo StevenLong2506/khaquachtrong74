@@ -33,7 +33,6 @@
 </picture>
 
 <br>
-<br>
 <div>
   <p>I am a low-level wizard 🧙 who codes best in the dark (though it may harm my eyes... eventually)</p>
   <p>I love fantasy worlds, ice-tea and creating things — useful or useless</p>
