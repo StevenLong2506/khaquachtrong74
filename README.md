@@ -25,7 +25,7 @@
 
 <br>
 <picture>
-<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="40%" align="right"><picture>
+<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="40%" align="right">
   <br>
   <br>
   <br>
