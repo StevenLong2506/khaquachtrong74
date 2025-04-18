@@ -26,6 +26,9 @@
 <br>
 <picture>
 <img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="40%" align="right"><picture>
+  <br>
+  <br>
+  <br>
 <div>
     <p>I am low-level wizard🧙 who codes best in the dark (yeah, though it may harm my eyes... eventually)</p>
     <p>I love fantasy world, ice-tea and creating things usefull or useless</p>
