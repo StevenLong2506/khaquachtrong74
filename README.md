@@ -41,17 +41,15 @@
 </div>
 
 <br>
+<div style="display:flex;justify-content:space-between">
+    <div align="left">   
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=5&layout=compact&theme=synthwave" alt="Top Languages" height="150"/>
+    </div>    
+    <div align="right" width=50%>
+          <img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=synthwave&show_icons=true" alt="GitHub Stats" height="150"/>
+    </div>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=5&layout=compact&theme=synthwave" alt="Top Languages" height="150"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=synthwave&show_icons=true" alt="GitHub Stats" height="150"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
