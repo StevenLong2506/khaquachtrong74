@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=📖+Open+University+of+Ho+Chi+Minh+city;Wizard+Acent+Runes,;Always+Interested+In+The+Strange&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=📖+Open+University+of+Ho+Chi+Minh+City;Wizard+Acent+Runes+Future,;Passionate+learner"></a>
 </p>
 
 ---
 
 <h2>
-  🔭 I'm currently working on 
+  🔭 I'm currently working on (I'm kidding, just make something in my dream) 
   <br>🛌 Ignore me! 
 </h2>
   
@@ -24,14 +24,19 @@
 ---
 
 <br>
-<div style="display:flex">
-<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="40%">
-  <div style="width:20%"></div>
-  <div style="display:flex, flex-direction: reverse">
+<picture>
+<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" style="border-radius:25px" alt="What the dog doing XD" width="40%" align="right"><picture>
+<div>
+    <p>I am low-level wizard🧙 who codes best in the dark (yeah, though it may harm my eyes... eventually)</p>
+    <p>I love fantasy world, ice-tea and creating things usefull or useless</p>
+    <p> 🧰 Feel free to drop a rune or two (aka advice) to help improve my spell craft</p>
+</div>
+<br>
+</div>
+<div style="display:flex, flex-direction: reverse">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=5&layout=compact&theme=synthwave" alt="Top Languages" height="150" width="400">
     <img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=synthwave&show_icons=true" alt="GitHub Stats" height="150" width="400">
   </div> 
-</div>
 <br>
 
 ---
