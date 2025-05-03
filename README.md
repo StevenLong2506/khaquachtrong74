@@ -13,18 +13,22 @@
 <h2>
   🔭 I'm currently working on (I'm kidding, just make something in my dream)<br>
   🛌 Ignore me!
-</h2>
 
-<div align="center">
+     _____ _     _____   _      _  ____  ____  ____  ____ 
+    /__ __Y \ /|/  __/  / \  /|/ \/_   \/  _ \/  __\/  _ \
+      / \ | |_|||  \    | |  ||| | /   /| / \||  \/|| | \|
+      | | | | |||  /_   | |/\||| |/   /_| |-|||    /| |_/|
+      \_/ \_/ \|\____\  \_/  \|\_/\____/\_/ \|\_/\_\\____/
+                                                      
+
   <a href="https://github.com/khaquachtrong74">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.quora.com/profile/Da-Kha-1">
     <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white">
   </a>
-</div>
 
----
+</h2>
 
 <br>
 <br>
@@ -42,9 +46,8 @@
 <br>
 <div align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=5&layout=compact&theme=synthwave" alt="Top Languages" height="150">
-          <img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=synthwave&show_icons=true" alt="GitHub Stats" height="150">
- 
 </div>
+          <img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=synthwave&show_icons=true" alt="GitHub Stats" height="150">
 
 
 ---
